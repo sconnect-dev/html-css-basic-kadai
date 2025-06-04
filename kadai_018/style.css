@@ -49,24 +49,22 @@ background-color: #87ceeb;
 position: relative;
 width:800px;
 height:300px;
-margin-top: 20px;
-margin-bottom: 20px;
+margin: auto;
 background-color: #87ceeb;
 }
 
 #bottom-child01,#bottom-child02,#bottom-child03{
-position: absolute;
 width: 400px;
 height: 100px;
 background-color: #e5dcf0;
 }
 
 #bottom-child02{
-position: absolute;
-left: 200px;
+position: relative;
+left:200px
 }
 
 #bottom-child03{
-position: absolute;
-left: 400px;
+position: relative;
+left:400px
 }
